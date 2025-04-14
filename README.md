@@ -1,2 +1,3 @@
 # practical
-this is my git repository
+This is my git repository
+Author - Talib rizvi
